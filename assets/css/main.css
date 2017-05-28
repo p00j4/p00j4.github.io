@@ -10,12 +10,12 @@
  * Scroll to top
 /* ---------------------------------------------- */
 
-.g-ytsubscribe{
+/*.g-ytsubscribe{
          position: relative;
          top: 50%;
          transform: translateY(-50%);
          background-color: red;
-    }
+    }*/
 
 #back2Top {
     width: 35px;
